@@ -1,4 +1,4 @@
-                                                                 BLOG WEBSITE
+                                                                 Front-end-task
 It is a  blogging website which enables us to write our blogs in it. 
 I have created a databse for it which i can access in my local computer which would save all the posts that will be published in the website.
 
@@ -6,7 +6,7 @@ I have created a databse for it which i can access in my local computer which wo
 
 1. git clone this website in your local computer
 
-2. now open the Blog_webite.github.io file inside the cloned project.
+2. now open the file inside the cloned project.
 
 3. now install node modules using command "npm install" in terminal
 
